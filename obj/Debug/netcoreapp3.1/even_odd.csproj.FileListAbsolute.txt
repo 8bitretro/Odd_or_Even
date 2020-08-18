@@ -1,0 +1,13 @@
+D:\Apps\Visual Studio\Repos\even_odd\bin\Debug\netcoreapp3.1\even_odd.exe
+D:\Apps\Visual Studio\Repos\even_odd\bin\Debug\netcoreapp3.1\even_odd.deps.json
+D:\Apps\Visual Studio\Repos\even_odd\bin\Debug\netcoreapp3.1\even_odd.runtimeconfig.json
+D:\Apps\Visual Studio\Repos\even_odd\bin\Debug\netcoreapp3.1\even_odd.runtimeconfig.dev.json
+D:\Apps\Visual Studio\Repos\even_odd\bin\Debug\netcoreapp3.1\even_odd.dll
+D:\Apps\Visual Studio\Repos\even_odd\bin\Debug\netcoreapp3.1\even_odd.pdb
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.csprojAssemblyReference.cache
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.AssemblyInfoInputs.cache
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.AssemblyInfo.cs
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.csproj.CoreCompileInputs.cache
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.dll
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.pdb
+D:\Apps\Visual Studio\Repos\even_odd\obj\Debug\netcoreapp3.1\even_odd.genruntimeconfig.cache
